@@ -8,4 +8,4 @@ This is the official development team for [discord.com/transfemme](https://disco
 
 ![Lemi](https://discord.butterfly-network.win/api/user/955530199972347935?aboutMe=Pain..%0AWhy+not+just+finish+me..%3F+%0A%5B17HP%2F100HP%5D&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)
 
-[![transbian's Discord status](https://discord.butterfly-network.win/api/user/652597508027187240?theme=dark&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+[![transbian's Discord status](https://discord.butterfly-network.win/api/user/652597508027187240?theme=nitroDark&primaryColor=826bc2&accentColor=b7a7f1&width=512)](https://github.com/TetraTsunami/discord-github-preview)

@@ -7,4 +7,4 @@ Most of the code made by this team has been archived, or transferred off of the 
 If you want to look into what the devs have been doing since, check out <a href=https://github.com/ariarees>@ariarees</a>, <a href=https://github.com/doughmination>@doughmination</a> and <a href=https://github.com/FufuUwU>@FufuUwU</a>
 
 "What happened to GayBot?"
-GayBot was moved to https://github.com/WLWDevs/
+GayBot was moved to https://github.com/WLWDevs/ as a new team is now maintaining it.
